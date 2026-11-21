@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T23:19:05Z",
+  "updatedAt": "2026-11-21T23:19:11Z",
   "apps": {
     "com.justin.soundtosheetmusic": {
       "name": "Sound to Sheet Music",
@@ -13,10 +13,12 @@
     },
     "com.justin.schematicgenerator": {
       "name": "Schematic Generator",
-      "versionCode": 16,
-      "versionName": "2.1.4",
-      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/schematic-generator-v2.1.4/Schematic-Generator-2.1.4.apk",
-      "notes": "Check for updates toolbar uses the same path as the app menu."
+      "versionCode": 17,
+      "versionName": "2.1.5",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/schematic-generator-v2.1.5/Schematic-Generator-2.1.5.apk",
+      "notes": "Fixed Check for updates: clearer error messages with the real cause, automatic retries, backup update servers, and a Download in browser option.",
+      "sha256": "243c09edad5062cefacd1210e290ddacda44f1738753e76faf4c7c315385db3d",
+      "size": 4381281
     },
     "com.justin.pcbmaker": {
       "name": "PCB Maker",
