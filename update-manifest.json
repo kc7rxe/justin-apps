@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-21T23:18:39Z",
+  "apps": {
+    "com.justin.soundtosheetmusic": {
+      "name": "Sound to Sheet Music",
+      "versionCode": 10,
+      "versionName": "1.4.1",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/sound-to-sheet-v1.4.1/Sound-to-Sheet-1.4.1.apk",
+      "notes": "Fixed Check for updates: clearer error messages with the real cause, automatic retries, backup update servers, and a Download in browser option. Stale offline cache removed.",
+      "sha256": "4e527060e239b948feb002e3d2fd0a4b8ca8e7be031befd876e50a9aa3bf79d7",
+      "size": 4211781
+    },
+    "com.justin.schematicgenerator": {
+      "name": "Schematic Generator",
+      "versionCode": 16,
+      "versionName": "2.1.4",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/schematic-generator-v2.1.4/Schematic-Generator-2.1.4.apk",
+      "notes": "Check for updates toolbar uses the same path as the app menu."
+    },
+    "com.justin.pcbmaker": {
+      "name": "PCB Maker",
+      "versionCode": 14,
+      "versionName": "2.0.4",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/pcb-maker-v2.0.4/PCB-Maker-2.0.4.apk",
+      "notes": "Check for updates toolbar uses the same path as the app menu."
+    },
+    "com.justin.plasmacadcam": {
+      "name": "Plasma CAD CAM",
+      "versionCode": 15,
+      "versionName": "2.0.4",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/plasma-cad-cam-v2.0.4/Plasma-CAD-CAM-2.0.4.apk",
+      "notes": "DXF import improvements (circles, arcs, polylines/bulges), Check for updates toolbar fix."
+    },
+    "com.justin.rotarygroovecam": {
+      "name": "Rotary Groove CAM",
+      "versionCode": 14,
+      "versionName": "1.5.3",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/rotary-groove-cam-v1.5.3/Rotary-Groove-CAM-1.5.3.apk",
+      "notes": "End plate DXF export for plasma, clearer Export/Share DXF choices, Check for updates toolbar fix."
+    },
+    "com.justin.assemblysim": {
+      "name": "Assembly Sim",
+      "versionCode": 4,
+      "versionName": "1.0.3",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/assembly-sim-v1.0.3/Assembly-Sim-1.0.3.apk",
+      "notes": "Check for updates button reliability fix."
+    }
+  }
+}
