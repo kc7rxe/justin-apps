@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T23:19:23Z",
+  "updatedAt": "2026-11-21T23:19:29Z",
   "apps": {
     "com.justin.soundtosheetmusic": {
       "name": "Sound to Sheet Music",
@@ -49,10 +49,12 @@
     },
     "com.justin.assemblysim": {
       "name": "Assembly Sim",
-      "versionCode": 4,
-      "versionName": "1.0.3",
-      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/assembly-sim-v1.0.3/Assembly-Sim-1.0.3.apk",
-      "notes": "Check for updates button reliability fix."
+      "versionCode": 5,
+      "versionName": "1.0.4",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/assembly-sim-v1.0.4/Assembly-Sim-1.0.4.apk",
+      "notes": "Fixed Check for updates: clearer error messages with the real cause, automatic retries, backup update servers, and a Download in browser option.",
+      "sha256": "fbb054cf41be3d92e2a9408a8549bc13d52541f8d0019ca29185f58e60c00e1e",
+      "size": 4006202
     }
   }
 }
