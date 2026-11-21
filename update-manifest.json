@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T23:19:11Z",
+  "updatedAt": "2026-11-21T23:19:17Z",
   "apps": {
     "com.justin.soundtosheetmusic": {
       "name": "Sound to Sheet Music",
@@ -22,10 +22,12 @@
     },
     "com.justin.pcbmaker": {
       "name": "PCB Maker",
-      "versionCode": 14,
-      "versionName": "2.0.4",
-      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/pcb-maker-v2.0.4/PCB-Maker-2.0.4.apk",
-      "notes": "Check for updates toolbar uses the same path as the app menu."
+      "versionCode": 16,
+      "versionName": "2.1.1",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/pcb-maker-v2.1.1/PCB-Maker-2.1.1.apk",
+      "notes": "Circular and custom board outlines and panelizing (from 2.1.0). Fixed Check for updates: clearer error messages with the real cause, automatic retries, backup update servers, and a Download in browser option. PCB Maker no longer offers to open APK files.",
+      "sha256": "d8e1a5ae04efac41f364014841a61e9eb03b7a2fe1d253b91c1d5d7dbd6e463f",
+      "size": 2032621
     },
     "com.justin.plasmacadcam": {
       "name": "Plasma CAD CAM",
