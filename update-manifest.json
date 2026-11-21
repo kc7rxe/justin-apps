@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T23:18:39Z",
+  "updatedAt": "2026-11-21T23:19:05Z",
   "apps": {
     "com.justin.soundtosheetmusic": {
       "name": "Sound to Sheet Music",
@@ -27,10 +27,12 @@
     },
     "com.justin.plasmacadcam": {
       "name": "Plasma CAD CAM",
-      "versionCode": 15,
-      "versionName": "2.0.4",
-      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/plasma-cad-cam-v2.0.4/Plasma-CAD-CAM-2.0.4.apk",
-      "notes": "DXF import improvements (circles, arcs, polylines/bulges), Check for updates toolbar fix."
+      "versionCode": 16,
+      "versionName": "2.0.5",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/plasma-cad-cam-v2.0.5/Plasma-CAD-CAM-2.0.5.apk",
+      "notes": "Fixed Check for updates: clearer error messages with the real cause, automatic retries, backup update servers, and a Download in browser option.",
+      "sha256": "d8416c17288cef3810a788c0caacad7f529d97d327f4422c56038167330c95cf",
+      "size": 2310798
     },
     "com.justin.rotarygroovecam": {
       "name": "Rotary Groove CAM",
