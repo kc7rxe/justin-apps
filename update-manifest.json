@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T23:19:17Z",
+  "updatedAt": "2026-11-21T23:19:23Z",
   "apps": {
     "com.justin.soundtosheetmusic": {
       "name": "Sound to Sheet Music",
@@ -40,10 +40,12 @@
     },
     "com.justin.rotarygroovecam": {
       "name": "Rotary Groove CAM",
-      "versionCode": 14,
-      "versionName": "1.5.3",
-      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/rotary-groove-cam-v1.5.3/Rotary-Groove-CAM-1.5.3.apk",
-      "notes": "End plate DXF export for plasma, clearer Export/Share DXF choices, Check for updates toolbar fix."
+      "versionCode": 15,
+      "versionName": "1.5.4",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/rotary-groove-cam-v1.5.4/Rotary-Groove-CAM-1.5.4.apk",
+      "notes": "Fixed Check for updates: clearer error messages with the real cause, automatic retries, backup update servers, and a Download in browser option.",
+      "sha256": "ecbd8c82eb5b1a252078419391f68009d43d55ec46a60985620580fee95af168",
+      "size": 3945958
     },
     "com.justin.assemblysim": {
       "name": "Assembly Sim",
