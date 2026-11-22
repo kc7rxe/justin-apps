@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T23:19:29Z",
+  "updatedAt": "2026-11-22T00:12:56Z",
   "apps": {
     "com.justin.soundtosheetmusic": {
       "name": "Sound to Sheet Music",
@@ -31,12 +31,12 @@
     },
     "com.justin.plasmacadcam": {
       "name": "Plasma CAD CAM",
-      "versionCode": 16,
-      "versionName": "2.0.5",
-      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/plasma-cad-cam-v2.0.5/Plasma-CAD-CAM-2.0.5.apk",
-      "notes": "Fixed Check for updates: clearer error messages with the real cause, automatic retries, backup update servers, and a Download in browser option.",
-      "sha256": "d8416c17288cef3810a788c0caacad7f529d97d327f4422c56038167330c95cf",
-      "size": 2310798
+      "versionCode": 17,
+      "versionName": "2.0.6",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/plasma-cad-cam-v2.0.6/Plasma-CAD-CAM-2.0.6.apk",
+      "notes": "New 3D view: tap 3D to see the part at material thickness and rotate it about X/Y/Z (drag, pinch, \u00b115\u00b0 buttons, Top/Front/Right/Iso presets, XYZ axis marker, optional cut paths). Display only \u2014 G-code, DXF and SVG output unchanged.",
+      "sha256": "d626fddf0977fa16c84cdb4346054a4994bf2f38fc9adde594c468423af28fa1",
+      "size": 2321230
     },
     "com.justin.rotarygroovecam": {
       "name": "Rotary Groove CAM",
