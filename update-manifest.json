@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T00:13:09Z",
+  "updatedAt": "2026-11-22T01:31:11Z",
   "apps": {
     "com.justin.soundtosheetmusic": {
       "name": "Sound to Sheet Music",
@@ -22,12 +22,12 @@
     },
     "com.justin.pcbmaker": {
       "name": "PCB Maker",
-      "versionCode": 17,
-      "versionName": "2.1.2",
-      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/pcb-maker-v2.1.2/PCB-Maker-2.1.2.apk",
-      "notes": "Layer colours: top traces/pads red, bottom green, middle/inner yellow; through-hole pads and vias split red/green. New Layers visible card: Top only / Bottom only / Middle only / All, any combination, View from below (mirror); hidden layers can't be edited. Display only \u2014 Gerber and print output unchanged.",
-      "sha256": "c60e536ea259758f5f7b3dbebd96b4431788ac3db24a43d7cd56602ee7bb5ca2",
-      "size": 2035453
+      "versionCode": 18,
+      "versionName": "2.1.3",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/pcb-maker-v2.1.3/PCB-Maker-2.1.3.apk",
+      "notes": "PCB Maker 2.1.3: DRC-clean autorouter - traces of different nets never cross and always keep the clearance gap (same-net traces may connect); uses a two-via detour to get past a blocking trace. Tap a trace to Rip Up, Redraw by hand (other nets blocked) or Reroute just that net. New Clearance (mil) setting. DRC now checks trace/pad/via clearance and same-layer crossings. Layer colors unchanged (red top, green bottom, yellow middle). TO-220-5 footprint corrected to staggered leads.",
+      "sha256": "12064e468ffa0c9ea045ba307cec860e5c887f5e773b910746a3af931b0e4e1c",
+      "size": 2047418
     },
     "com.justin.plasmacadcam": {
       "name": "Plasma CAD CAM",
