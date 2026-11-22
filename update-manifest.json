@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T00:12:56Z",
+  "updatedAt": "2026-11-22T00:13:09Z",
   "apps": {
     "com.justin.soundtosheetmusic": {
       "name": "Sound to Sheet Music",
@@ -22,12 +22,12 @@
     },
     "com.justin.pcbmaker": {
       "name": "PCB Maker",
-      "versionCode": 16,
-      "versionName": "2.1.1",
-      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/pcb-maker-v2.1.1/PCB-Maker-2.1.1.apk",
-      "notes": "Circular and custom board outlines and panelizing (from 2.1.0). Fixed Check for updates: clearer error messages with the real cause, automatic retries, backup update servers, and a Download in browser option. PCB Maker no longer offers to open APK files.",
-      "sha256": "d8e1a5ae04efac41f364014841a61e9eb03b7a2fe1d253b91c1d5d7dbd6e463f",
-      "size": 2032621
+      "versionCode": 17,
+      "versionName": "2.1.2",
+      "apkUrl": "https://github.com/kc7rxe/justin-apps/releases/download/pcb-maker-v2.1.2/PCB-Maker-2.1.2.apk",
+      "notes": "Layer colours: top traces/pads red, bottom green, middle/inner yellow; through-hole pads and vias split red/green. New Layers visible card: Top only / Bottom only / Middle only / All, any combination, View from below (mirror); hidden layers can't be edited. Display only \u2014 Gerber and print output unchanged.",
+      "sha256": "c60e536ea259758f5f7b3dbebd96b4431788ac3db24a43d7cd56602ee7bb5ca2",
+      "size": 2035453
     },
     "com.justin.plasmacadcam": {
       "name": "Plasma CAD CAM",
